@@ -1,2 +1,11 @@
-# siber-tool
-By.orbi Cybersecurity Tools Suite  A collection of powerful cybersecurity tools for penetration testing and vulnerability scanning. Includes features like Port Scanner, Traffic Sniffer, IP Lookup, ARP Spoofing Detection, and more. Ideal for security professionals looking for efficient solutions. Open-source and compatible with Kali Linux.
+# 🛡️ Siber Tool by By.orbi
+
+Siber güvenlik testleri için özelleştirilmiş terminal tabanlı araç seti. Port tarama, trafik analizi, hash kontrolü gibi birçok özelliği barındırır.
+
+## 🚀 Kurulum ve Kullanım
+
+1. Reponun klonlanması:
+```bash
+git clone https://github.com/Orbi-bey/siber-tool.git
+cd siber-tool
+sudo python3 siber_tool.py
