@@ -9,4 +9,4 @@ Siber güvenlik testleri için özelleştirilmiş terminal tabanlı araç seti. 
 git clone https://github.com/Orbi-bey/siber-tool.git
 cd siber-tool
 pip install -r requirements.txt
-sudo python3 siber_tool.py
+python3 siber_tool.py
